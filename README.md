@@ -1,2 +1,3 @@
 # hello-world
-github hello world
+
+Write a commit message that describes your changes.
